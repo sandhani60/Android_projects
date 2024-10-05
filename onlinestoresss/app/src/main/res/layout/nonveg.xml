@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="30dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:background="@drawable/background1111">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Image 1 -->
+            <ImageView
+
+                android:background="@drawable/dum"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                >
+
+            </ImageView>
+
+            <!-- Text 1 -->
+
+            <!-- Button 1 -->
+            <TextView
+                android:textColor="#c30010"
+                android:layout_width="1000dp"
+                android:layout_height="30dp"
+
+
+                android:text="120 (DUM MASALA BIRIYANI(600G)"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+            <!-- Image 2 -->
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginRight="100dp"
+                android:text="order now" />
+
+            <ImageView
+                android:background="@drawable/curry"
+                android:layout_marginTop="100dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                />
+
+            <!-- Text 1 -->
+
+            <!-- Button 1 -->
+            <TextView
+                android:textColor="#c30010"
+                android:layout_width="1000dp"
+                android:layout_height="30dp"
+
+
+                android:text="199 rs BAGARA RICE + CHICKEN CURRY"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+            <!-- Image 2 -->
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="0dp"
+                android:layout_marginRight="100dp"
+                android:text="order now" />
+            <ImageView
+                android:background="@drawable/cc"
+                android:layout_marginTop="100dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                />
+
+            <!-- Text 1 -->
+
+            <!-- Button 1 -->
+            <TextView
+                android:textColor="#c30010"
+                android:layout_width="1000dp"
+                android:layout_height="30dp"
+
+
+                android:text="150rs CHCIKEN CURRY(250g)"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <!-- Image 2 -->
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginRight="100dp"
+                android:text="order now" />
+            <ImageView
+                android:background="@drawable/home"
+                android:layout_marginTop="100dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp" />
+
+            <!-- Text 1 -->
+
+            <!-- Button 1 -->
+            <TextView
+                android:textColor="#c30010"
+                android:layout_width="1000dp"
+                android:layout_height="30dp"
+
+
+                android:text="139rs (HOME MADE BIRIYANI)"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <!-- Image 2 -->
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginRight="100dp"
+                android:text="order now" />
+            <ImageView
+                android:background="@drawable/chepalu"
+                android:layout_marginTop="100dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                />
+
+            <!-- Text 1 -->
+
+            <!-- Button 1 -->
+            <TextView
+                android:textColor="#c30010"
+                android:layout_width="1000dp"
+                android:layout_height="30dp"
+
+
+                android:text="149rs FISH CURRRY AND RAGI SANGATI"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+            <!-- Image 2 -->
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginRight="100dp"
+                android:text="order now" />
+            <ImageView
+                android:background="@drawable/ragi"
+                android:layout_marginTop="100dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                />
+
+            <!-- Text 1 -->
+
+            <!-- Button 1 -->
+            <TextView
+                android:textColor="#c30010"
+                android:layout_width="1000dp"
+                android:layout_height="30dp"
+
+
+                android:text="139rs (CHICKEN CURRY RAGI SANGATI)"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+            <!-- Image 2 -->
+
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginRight="100dp"
+                android:text="order now" />
+            <ImageView
+                android:background="@drawable/pakoda1"
+                android:layout_marginTop="100dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp" />
+
+            <!-- Text 1 -->
+
+            <!-- Button 1 -->
+            <TextView
+                android:textColor="#c30010"
+                android:layout_width="1000dp"
+                android:layout_height="30dp"
+
+
+                android:text="60rs (PAKODA)"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <!-- Image 2 -->
+
+            <Button
+                android:id="@+id/button7"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginRight="100dp"
+                android:text="order now" />
+            <ImageView
+                android:background="@drawable/legpiece"
+                android:layout_marginTop="100dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                />
+
+            <!-- Text 1 -->
+
+            <!-- Button 1 -->
+            <TextView
+                android:textColor="#c30010"
+                android:layout_width="1000dp"
+                android:layout_height="30dp"
+
+
+                android:text="60rs(LEG PIECE)"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <!-- Image 2 -->
+
+            <Button
+                android:id="@+id/button8"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginRight="100dp"
+                android:text="order now" />
+            <ImageView
+                android:background="@drawable/lilipop"
+                android:textColor="#c30010"
+                android:layout_marginTop="100dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                />
+
+            <!-- Text 1 -->
+
+            <!-- Button 1 -->
+            <TextView
+                android:textColor="#c30010"
+                android:layout_width="1000dp"
+                android:layout_height="30dp"
+
+
+                android:text="150rs (LOLLIPOP)"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <!-- Image 2 -->
+
+            <Button
+                android:id="@+id/button9"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginRight="100dp"
+                android:text="order now" />
+            <ImageView
+                android:background="@drawable/om"
+
+
+                android:layout_marginTop="100dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                />
+
+            <!-- Text 1 -->
+
+            <!-- Button 1 -->
+            <TextView
+                android:textColor="#c30010"
+                android:layout_width="1000dp"
+                android:layout_height="30dp"
+
+
+                android:text="15 rs (OMLETE)"
+                android:textSize="15dp"
+                android:textStyle="bold" />
+
+            <!-- Image 2 -->
+
+            <Button
+                android:id="@+id/button10"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginRight="100dp"
+                android:text="order now" />
+
+
+
+
+
+            <!-- Add more images, text views, and buttons as needed -->
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

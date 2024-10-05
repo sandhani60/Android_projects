@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+
+    <ImageView
+
+        android:id="@+id/img100"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="@drawable/food"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="40dp"></ImageView>
+    <TextView
+
+        android:textStyle="bold"
+        android:textSize="20dp"
+
+        android:text="FOOD"
+        android:layout_marginLeft="-120dp"
+        android:layout_marginTop="230dp"
+        android:layout_width="120dp"
+        android:layout_height="30dp"></TextView>
+    <ImageView
+        android:id="@+id/img12"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="@drawable/groceries"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="40dp"></ImageView>
+    <TextView
+
+        android:textStyle="bold"
+        android:textSize="20dp"
+
+        android:text="GROCERIES"
+        android:layout_marginLeft="-120dp"
+        android:layout_marginTop="230dp"
+        android:layout_width="120dp"
+        android:layout_height="30dp"></TextView>
+
+    <ImageView
+        android:id="@+id/img3"
+
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="@drawable/vegitables"
+        android:layout_marginTop="330dp"
+        android:layout_marginLeft="-280dp"></ImageView>
+    <TextView
+
+        android:textStyle="bold"
+        android:textSize="20dp"
+
+        android:text="VEGITABLES"
+        android:layout_marginLeft="-120dp"
+        android:layout_marginTop="460dp"
+        android:layout_width="120dp"
+        android:layout_height="30dp"></TextView>
+
+    <ImageView
+        android:id="@+id/img4"
+
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="@drawable/fruits"
+        android:layout_marginTop="330dp"
+        android:layout_marginLeft="35dp"></ImageView>
+    <TextView
+
+        android:textStyle="bold"
+        android:textSize="20dp"
+
+        android:text="FRUITS"
+        android:layout_marginLeft="-120dp"
+        android:layout_marginTop="460dp"
+        android:layout_width="120dp"
+        android:layout_height="30dp"></TextView>
+
+
+
+</LinearLayout>

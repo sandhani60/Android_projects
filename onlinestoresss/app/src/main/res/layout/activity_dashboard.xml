@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DashboardActivity"
+    android:orientation="vertical"
+    android:background="@drawable/background1111">
+
+    <TextView
+
+        android:layout_marginLeft="140dp"
+        android:textSize="30sp"
+
+        android:layout_marginRight="70dp"
+        android:text="PLACES "
+        android:textStyle="bold"
+        android:textColor="#c30010"
+
+        android:layout_width="match_parent"
+        android:layout_height="40dp"></TextView>
+    <ImageView
+
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="0dp"
+        android:background="@drawable/vits12"
+
+        android:id="@+id/image"
+        android:layout_width="100dp"
+        android:layout_height="100dp">
+
+    </ImageView>
+    <TextView
+
+        android:textStyle="bold"
+        android:textColor="#c30010"
+        android:text="KAVALI"
+
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_width="100dp"
+        android:layout_height="30dp">
+
+    </TextView>
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_marginLeft="50dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/vinjamur">
+
+    </ImageView>
+    <TextView
+
+        android:textStyle="bold"
+        android:textColor="#c30010"
+        android:text="VINJAMUR"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_width="100dp"
+        android:layout_height="30dp">
+
+    </TextView>
+
+    <ImageView
+        android:id="@+id/image2"
+        android:layout_marginLeft="50dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/atmak">
+
+    </ImageView>
+    <TextView
+
+        android:textStyle="bold"
+        android:textColor="#c30010"
+        android:text="ATMAKUR    "
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_width="1000dp"
+        android:layout_height="30dp">
+
+    </TextView>
+    <TextView
+        android:layout_width="1000dp"
+        android:layout_height="30dp"
+        android:text="we are only delivery hangovers .. any problem occurs
+contact us immedicately"
+        android:textColor="#c30010"></TextView>
+
+
+
+
+
+</LinearLayout>

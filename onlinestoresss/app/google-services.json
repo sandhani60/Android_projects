@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839913083141",
+    "project_id": "onlinestoresss-f1d35",
+    "storage_bucket": "onlinestoresss-f1d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839913083141:android:bb1821fc711cd10900e76c",
+        "android_client_info": {
+          "package_name": "com.evanemran.onlinestoresss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnpr8Vo3eqT9njzahNqiy_c7fsNLlr_hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
